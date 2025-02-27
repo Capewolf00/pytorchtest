@@ -1,0 +1,5 @@
+{
+    "markdown.copyFiles.destination": {
+        "\"python.linting.pylintPath\"": "\"/Users/riccardosmac/Desktop/pytorch_ex/venv/bin/pylint\""
+    }
+}
